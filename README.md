@@ -24,6 +24,8 @@ Day 7: Advanced algorithms and implementation
 
 
 Week 2:
+
+
 Day 1: Tenssrflow js deployment begining
 Day 2: Tensorflow js application development begining.
 Day 3: Tensorflow js and model deployment
@@ -32,7 +34,9 @@ DAy 5: Transfer learning
 Day 6: Real time model deployment begining
 Day 7: Make the bot may be a telegram bot
 
-WEek 3:
+Week 3:
+
+
 Day 1: Deployment or the model for the lambda architecture of the Machine learning.
 Day 2: Continue the lambda architecture
 Day 3: The tools for the image processing.
